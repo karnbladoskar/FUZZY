@@ -1,8 +1,12 @@
 # FUZZY [WIP] 
 FUZZY is an open-source Python API for Genetic Algorithms (GA), Markov Chain Processes and Deep Q-learning for fuzzy-testing purposes. 
 
-## Genetic Algorithms 
+## Contribution Guidelines 
 
-## Markov Chain Processes 
+## Theory 
+### Genetic Algorithms 
 
-## Deep Q-Learning
+### Markov Chain Processes 
+
+### Deep Q-Learning
+
